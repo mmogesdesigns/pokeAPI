@@ -1,0 +1,15 @@
+body {
+  background-color: black;
+}
+.jumbotron {
+  margin-top: 100px;
+  font-weight: 1000;
+}
+.btn {
+  background-color: bisque;
+  font-weight: 800;
+  cursor: pointer;
+}
+.btn:hover {
+  transform: scale(1.2);
+}
